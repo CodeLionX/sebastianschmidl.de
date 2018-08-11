@@ -2124,6 +2124,10 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 100%;
 			}
+		
+		.image.clean:before {
+			display: none;
+		}
 
 /* List */
 
